@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wly99
 - 👀 I’m interested in web3
 - 🌱 I’m currently learning rust, solidity and web3 front end frameworks
-- 💞️ I’m looking to collaborate on web3 related projects
+- 💞️ I’m looking to collaborate on exciting or fast growing projects
 - 📫 How to reach me ...
 
 <!---
